@@ -76,6 +76,5 @@ $go_top = get_theme_mod('disable-go-top','trustnews');
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-<marquee>ISSO AQUI É CRIME EM MAIS DE 72 PAISES</marquee>
 </body>
 </html>
