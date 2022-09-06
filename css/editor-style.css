@@ -93,7 +93,7 @@ dfn, cite, em, i {
 }
 
 blockquote:before {
-	color: #F64538;
+	color: #FEC92D;
 	content: "\201C";
 	display: block;
 	font-family: Georgia;
